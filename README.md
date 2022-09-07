@@ -1,1 +1,1 @@
-vcs file
+vcs doc
